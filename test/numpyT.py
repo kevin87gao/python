@@ -12,6 +12,7 @@ numpy.array(object, dtype = None, copy = True, order = None, subok = False, ndmi
 
 import numpy as np
 
+
 # 创建一个数组
 a = np.array([1, 2, 3])
 print(a)            # [1 2 3]
