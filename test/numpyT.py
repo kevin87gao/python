@@ -38,7 +38,6 @@ print(a.ndim)       # 1
     改变数组的维度,有两种方式：
     1 a.shape = (2, 12)
     2 a = a.reshape(2, 12) 
-    
 '''
 b = a.reshape(3, 4, 2)
 print(b.ndim)       # 3
